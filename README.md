@@ -48,13 +48,13 @@ Memory:	8 GB <br/>
     <tr>
       <td>**Decision Tree**</td>
       <td>69.17%</td>
-      <td>24.36</td>
+      <td>17.65</td>
       <td>130</td>
     </tr>
     <tr>
       <td>**Naive Bayesian Classifier**</td>
       <td>69.77%</td>
-      <td>19.90</td>
+      <td>14.24</td>
       <td>170</td>
     </tr>
     <tr>
