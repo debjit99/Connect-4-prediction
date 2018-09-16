@@ -41,7 +41,7 @@ Memory:	8 GB <br/>
       <td rowspan=2>**Classifier**</td>
       <td rowspan=2>**Avg. Accuracy**</td>
       <td rowspan=2>**Time reqired(in sec)**</td>
-      <td rowspan=2> **Memory required(in Kb)**</td>
+      <td rowspan=2> **Memory required(in MB)**</td>
     </tr>
   <thead>
   <tbody>
@@ -49,19 +49,19 @@ Memory:	8 GB <br/>
       <td>**Decision Tree**</td>
       <td>69.17%</td>
       <td>24.36</td>
-      <td> 6437</td>
+      <td>130</td>
     </tr>
     <tr>
       <td>**Naive Bayesian Classifier**</td>
       <td>69.77%</td>
       <td>19.90</td>
-      <td>7373</td>
+      <td>170</td>
     </tr>
     <tr>
       <td>**SVM**</td>
       <td>72.64%</td>
       <td>689.37</td>
-      <td>7373</td>
+      <td>200</td>
     </tr>
 
 *Following is the accuracy graph obtained by 10-fold cross validation of all the three classifiers:*
