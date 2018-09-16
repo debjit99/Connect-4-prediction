@@ -60,7 +60,7 @@ Memory:	8 GB <br/>
     <tr>
       <td>**SVM**</td>
       <td>72.64%</td>
-      <td>689.37</td>
+      <td>606.33</td>
       <td>200</td>
     </tr>
 
