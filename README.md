@@ -25,13 +25,13 @@ We use *clock* function to calculate the total time consumed to construct, train
 Finally, a graph is plotted using *plot* function from the earlier maintained accuracy arrays.
 
 ## System used to get the output
-Processor Name:	Intel Core i5
-Processor Speed:	2.7 GHz
-Number of Processors:	1
-Total Number of Cores:	2
-L2 Cache (per Core):	256 KB
-L3 Cache:	3 MB
-Memory:	8 GB
+Processor Name:	Intel Core i5 <br />
+Processor Speed:	2.7 GHz <br/>
+Number of Processors:	1 <br/>
+Total Number of Cores:	2 <br/>
+L2 Cache (per Core):	256 KB <br/>
+L3 Cache:	3 MB <br/>
+Memory:	8 GB <br/>
 
 
 ## Accuracy, running time and memory usage
