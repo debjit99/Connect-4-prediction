@@ -9,8 +9,8 @@ We read, as input, a file *connect-4.data* in the same directory and output the 
     ), for the Naive Bayesian classifier in the file [*Naive_Bayes.txt*](
     https://github.com/debjit99/Machine-Learning/blob/master/Naive_Bayes.txt
     ), and for the Support vector machine in the file [*SVM.txt*](https://github.com/debjit99/Machine-Learning/blob/master/SVM.txt). We also output a [graph](https://github.com/debjit99/Machine-Learning/blob/master/Figure_1.png) with the accuracies of each test set in all the three classifiers.  
-> Win, Draw and Loss have been assigned the values 1,0 and -1 respectively in the output files.
-
+> Win, Draw and Loss have been assigned the values 1,0 and -1 respectively in the output files.<br/>
+> In every data instance b = 1, x = 0 and o = 3 to make the input easier to use. 
 ## Libraries used
 * **time**: to calulate time consumed in k-fold cross validation of each classifier.
 * **numpy**: to store data in an array in numpy.array.
