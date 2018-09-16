@@ -44,9 +44,13 @@ Memory:	8 GB <br/>
     <tr>
       <td rowspan=2>**Classifier**</td>
       <td rowspan=2>**Avg. Accuracy**</td>
-      <td rowspan=2>**Time reqired(in sec)**</td>
-      <td rowspan=2> **Memory required(in MB)**</td>
+      <td colspan=2>**Time reqired(in sec)**</td>
+      <td rowspan=2> **Memory required(in sec)**</td>
     </tr>
+    <tr>
+      <td>*with printed output*</td>
+      <td>*without printed output*</td>
+    </tr>    
   <thead>
   <tbody>
     <tr>
