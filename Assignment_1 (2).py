@@ -266,6 +266,4 @@ plt.title("Error")
 plt.legend(loc='upper right')
 plt.show()
 
-
-plt.show()
 #---------end Plotter-----------------------------------------------------------
