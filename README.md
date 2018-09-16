@@ -8,7 +8,7 @@ We read, as input, a file *connect-4.data* in the same directory and output the 
      https://github.com/debjit99/Machine-Learning/blob/master/decision_tree.txt
     ), for the Naive Bayesian classifier in the file [*Naive_Bayes.txt*](
     https://github.com/debjit99/Machine-Learning/blob/master/Naive_Bayes.txt
-    ), and for the Support vector machine in the file [*SVM.txt*](https://github.com/debjit99/Machine-Learning/blob/master/SVM.txt). We also output a [graph](https://github.com/debjit99/Machine-Learning/blob/master/Figure_1.png) with the accuracies of each test set in all the three classifiers.
+    ), and for the Support vector machine in the file [*SVM.txt*](https://github.com/debjit99/Machine-Learning/blob/master/SVM.txt). We also output a [graph](https://github.com/debjit99/Machine-Learning/blob/master/Figure_1.png) with the accuracies of each test set in all the three classifiers.  
 > Win, Draw and Loss have been assigned the values 1,0 and -1 respectively in the output files.
 
 ## Libraries used
