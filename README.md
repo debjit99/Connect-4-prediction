@@ -4,7 +4,9 @@
 ## About the program submitted
 We created the program in Python 2.7 to build three classifiers: a Decision Tree, a Naive Bayesian classifier and a Support vector machine.
 
-We read, as input, a file *connect-4.data* in the same directory and [output](https://drive.google.com/drive/folders/1mcMzGY84QLr4d7TdxJ9biDqFqA_DIh-N?usp=sharing) the results of the k-fold test data for the Decision Tree in the file [*decision_tree.txt*](https://drive.google.com/file/d/164woOKOpx4dm7xm-KA1smzlAns0H4lgY/view?usp=sharing), for the Naive Bayesian classifier in the file [*Naive_Bayes.txt*](https://drive.google.com/file/d/1pPn7Jb0F_iGmxbY0Se82apNn3i3K0rV-/view?usp=sharing), and for the Support vector machine in the file [*SVM.txt*](https://drive.google.com/file/d/1AjZnQIukR_gO1rrkimkJ0_iYPnusBSld/view?usp=sharing). We also output a [graph](https://drive.google.com/file/d/18Wmc3tAjzEkHvkcLwtl2JXOee_7kqEll/view?usp=sharing) with the accuracies of each test set in all the three classifiers.
+We read, as input, a file *connect-4.data* in the same directory and [output](https://drive.google.com/drive/folders/1mcMzGY84QLr4d7TdxJ9biDqFqA_DIh-N?usp=sharing) the results of the k-fold test data for the Decision Tree in the file [*decision_tree.txt*](
+      Machine-Learning/decision_tree.txt
+    ), for the Naive Bayesian classifier in the file [*Naive_Bayes.txt*](https://drive.google.com/file/d/1pPn7Jb0F_iGmxbY0Se82apNn3i3K0rV-/view?usp=sharing), and for the Support vector machine in the file [*SVM.txt*](https://drive.google.com/file/d/1AjZnQIukR_gO1rrkimkJ0_iYPnusBSld/view?usp=sharing). We also output a [graph](https://drive.google.com/file/d/18Wmc3tAjzEkHvkcLwtl2JXOee_7kqEll/view?usp=sharing) with the accuracies of each test set in all the three classifiers.
 > Win, Draw and Loss have been assigned the values 1,0 and -1 respectively in the output files.
 
 ## Libraries used
